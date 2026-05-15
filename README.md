@@ -56,19 +56,3 @@ A comprehensive, accessible web application designed to help users manage their 
 - CORS & Body-Parser  
 
 ---
-
-## ⚙️ Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- Node.js (v14 or higher)
-- MongoDB (Local installation or MongoDB Atlas)
-
----
-
-## 📦 Installation & Setup
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/HealthVault.git
-cd HealthVault
